@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**kmsumit7905/kmsumit7905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 ABOUT ME:
+🔭 I'M CURRENTLY WORKING ON
+- JAVA PROGRAMMING
+- DATA STRUCTURES & ALGORITHMS (DSA)
+- SMALL PROJECTS USING JAVA & GITHUB
+👯 I'M LOOKING TO COLLABORATE ON
+- BEGINNER-FRIENDLY JAVA PROJECTS
+- OPEN SOURCE PROJECTS (GOOD FIRST ISSUES)
+- DSA PRACTICE & LEARNING GROUPS
+🤝 I'M LOOKING FOR HELP WITH
+- IMPROVING PROBLEM-SOLVING SKILLS
+- WRITING CLEAN CODE & FOLLOWING BEST PRACTICES
+- GIT & GITHUB WORKFLOW
+🌱 I'M CURRENTLY LEARNING
+- CORE JAVA
+- DATA STRUCTURES & ALGORITHMS (ARRAYS, LINKED LIST, STACK, QUEUE)
+- GIT, GITHUB & LINUX (FEDORA)
+💬 ASK ME ABOUT
+- JAVA BASICS
+- GITHUB & STUDENT DEVELOPER TOOLS
+- LINUX BASIC COMMANDS
+⚡ FUN FACT
+- I LEARN BEST BY BREAKING THINGS AND FIXING THEM. 😄
+- 🛠️ TECH STACK
+📦 TECH STACK ├── 💻 LANGUAGES │ ├── ☕ JAVA │ ├── 🌐 JAVASCRIPT │ └── 🐘 SQL │ ├── ⚙️ BACKEND │ ├── 🍃 SPRING BOOT │ ├── 🔗 SPRING DATA JPA │ ├── 🔐 SPRING SECURITY │ └── 🌐 REST API │ ├── 🗄️ DATABASE │ ├── 🐬 MYSQL │ ├── 🐘 POSTGRESQL │ ├── 🍃 MONGODB │ └── ⚡ REDIS │ ├── 🎨 FRONTEND │ ├── ⚛️ REACT │ ├── 🎨 HTML5 │ └── 🎨 CSS3 │ └── 🛠️ TOOLS ├── 🐧 LINUX ├── 🐳 DOCKER ├── 📝 GIT ├── 🐙 GITHUB ├── 📬 POSTMAN └── ⚙️ MAVEN
